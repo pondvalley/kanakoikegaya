@@ -1,7 +1,7 @@
 <?php
 return [
 
-  'debug'  => false,
+  'debug' => false,
 
   'thathoff.git-content' => [
     'commit' => true,
