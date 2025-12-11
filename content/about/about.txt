@@ -1,0 +1,47 @@
+Title: About
+
+----
+
+Text:
+
+The portfolio site of an artist Kanako Ikegaya. She is fascinated by the time and space where different lifestyles and ideas blend, as well as the juncture between known and unknown. The artist produces with her own means of expression while facing traces and a feeling that casual encounters bring. She studied at Wimbledon College, London University of the Arts. Currently practices in Tokyo.
+
+池ヶ谷香奈子
+
+1984年石川県生まれ。
+2012年ロンドン芸術大学ウィンブルドンカレッジ彫刻学科を卒業。生きていく上で避けることのできない「偶発性と選択」のもたらす動き、身体やものに刻まれるその感触や痕跡が、新たに描き出す「関係」をテーマに制作を続けている。未知と既知の接合点に魅了されながら、ドローイングを主軸とした独自の表現手段で制作を続ける。
+
+----
+
+Exhibitions:
+
+2023   tata bookshop / gallery  'Where Do Honey Bees Go?' Tokyo, Japan
+2023   Sklo ＋ karch, 'RESTAURO Kanako Ikegaya and Gleichenia ' Ishikawa, Japan
+2023   Gallery YUME, ' Drawings, Rings, ' Tokyo, Japan
+2022    Mirume gallery , ' A brief moment on a day ' ,Tokyo, Japan
+2022    Poubelle  gallery ' Collages ' , Tokyo, Japan
+2021    Haramine park , 'Present continuous 2021 ' ,Tokyo, Japan
+2019    Gallery DODO,  'Sakuragaoka Satellite ' , Tokyo, Japan
+2018    Carrousel du Louvre, ' Salon des beaux arts 2018 ', Paris, France
+2018    Spiral hall,  ' SICF19 ' Tokyo, Japan
+2015    Yamakiwa museum , ‘Yananoha'  Niigata, Japan  
+2014    Yamakiwa museum ,  'From Shichiin' Niigata, Japan  
+2012    Cannizaro Park ,  ' Park’ 12 ‘ London, UK
+2012    Cannizaro Park ,  ' Park’ 11’ , London, UK
+
+2023   『Where Do Honey Bees Go? 』  tata bookshop/gallery / 東京
+2023   『RESTAURO Kanako Ikegaya and Gleichenia 』Sklo ＋ karch / 石川
+2022   『 A brief moment on a day 』みるめギャラリー/ 東京
+2022   『Collages』 poubelle / 東京
+2021   『現在進行形 野外展 2021』原峰公園 ゆう桜ヶ丘ギャラリー / 東京
+2019   『現在進行形サテライト展』Gallery & Cafe DODO / 東京
+2018   『Salon Des National Beaux Arts 2018 』Carrousel du Louvre /パリ
+2018   『SICF 19』スパイラルガーデン/ 東京
+2015   『やまのは 』やまきわ美術館 / 新潟
+2014   『七院から』やまきわ美術館 / 新潟
+2012   『Park' 12 』Cannizaro Park /ロンドン
+2011   『Park' 11 』Cannizaro Park /ロンドン
+
+----
+
+Uuid: 4jhvjdvhttu0a2mk

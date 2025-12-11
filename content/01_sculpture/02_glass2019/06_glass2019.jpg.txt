@@ -1,0 +1,17 @@
+Caption: Balls / series of 3
+
+----
+
+Alt: 
+
+----
+
+Height: 65
+
+----
+
+Width: 65
+
+----
+
+Depth: 65

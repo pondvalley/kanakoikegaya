@@ -1,0 +1,25 @@
+Title: Kanako Ikegaya
+
+----
+
+Mainmenu:
+
+- sculpture
+- painting
+- drawing
+- photography
+- video
+- about
+- contact
+
+----
+
+Author: Kanako Ikegaya
+
+----
+
+Description: 
+
+----
+
+Url: 

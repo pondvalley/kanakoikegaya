@@ -1,0 +1,52 @@
+Title: glass
+
+----
+
+Images:
+
+- 01_glass2019.jpg
+- 02_glass2019.jpg
+- 03_glass2019.jpg
+- 04_glass2019.jpg
+- 05_glass2019.jpg
+- 06_glass2019.jpg
+- 07_glass2019.jpg
+- 08_glass2019.jpg
+- 09_glass2019.jpg
+- 10_glass2019.jpg
+
+----
+
+Category: 
+
+----
+
+Year: 2019
+
+----
+
+Media: mold-melted glass, copper sheet
+
+----
+
+Text: 
+
+----
+
+Height: 900
+
+----
+
+Width: 600
+
+----
+
+Tags: sculpture
+
+----
+
+Series: 
+
+----
+
+Uuid: 8z9gs3lp0p5sfixv

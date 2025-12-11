@@ -1,0 +1,48 @@
+title: Gallery
+parent: kirby.page('category')
+status:
+  draft: Draft
+  listed: Published
+
+fields:
+  images:
+    type: files
+    layout: cards
+    image:
+      cover: true
+  category:
+    type: select
+    options:
+      Sculpture: Sculpture
+      Painting: Painting
+      Drawing: Drawing
+      Photography: Photography
+      Video: Video
+    width: 3/4
+  year:
+    type: number
+    width: 1/4
+    required: true
+  media:
+    type: tags
+    required: true
+  dimension:
+    label: Dimensions Variable
+    width: 1/4
+    type: toggle
+    text:
+      - "No"
+      - "Yes"
+  series:
+    label: Series
+    width: 1/4
+    type: number
+  location:
+    label: Location
+    width: 1/2
+    type: text
+  text:
+    type: textarea
+    size: large
+    
+

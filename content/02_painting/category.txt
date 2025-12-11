@@ -1,0 +1,258 @@
+Title: Painting
+
+----
+
+Author: Kanako Ikegaya
+
+----
+
+Description: 
+
+----
+
+Url: 
+
+----
+
+Gallery:
+
+- 
+  dragText: '(link: painting/untitledOnCanvas text: Untitled (Canvas))'
+  hasChildren: false
+  icon:
+    type: page
+    ratio: 3/2
+    back: pattern
+    color: '#c5c9c6'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01_untitled2019onCanvas.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-76x76.jpg
+        2x
+  id: painting/untitledOnCanvas
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01_untitled2019onCanvas.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnCanvas/3f75ddefc5-1607256060/01-untitled2019oncanvas-76x76.jpg
+        2x
+  info: ""
+  link: /pages/painting+untitledOnCanvas
+  text: Untitled (Canvas)
+  url: >
+    http://kanakoikegaya.test/painting/untitledOnCanvas
+- 
+  dragText: '(link: painting/untitledOnPaper text: Untitled (Paper))'
+  hasChildren: false
+  icon:
+    type: page
+    ratio: 3/2
+    back: pattern
+    color: '#c5c9c6'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01_untitled2019onPaper.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-76x76.jpg
+        2x
+  id: painting/untitledOnPaper
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01_untitled2019onPaper.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnPaper/359e1073d7-1607256151/01-untitled2019onpaper-76x76.jpg
+        2x
+  info: ""
+  link: /pages/painting+untitledOnPaper
+  text: Untitled (Paper)
+  url: >
+    http://kanakoikegaya.test/painting/untitledOnPaper
+- 
+  dragText: '(link: painting/warmthOf text: Warmth of)'
+  hasChildren: false
+  icon:
+    type: page
+    ratio: 3/2
+    back: pattern
+    color: '#c5c9c6'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01_warmthOf.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-76x76.jpg
+        2x
+  id: painting/warmthOf
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01_warmthOf.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/warmthOf/40b9152970-1607256214/01-warmthof-76x76.jpg
+        2x
+  info: ""
+  link: /pages/painting+warmthOf
+  text: Warmth of
+  url: >
+    http://kanakoikegaya.test/painting/warmthOf
+- 
+  dragText: '(link: painting/untitledOnWoodboard text: Untitled (Wood board))'
+  hasChildren: false
+  icon:
+    type: page
+    ratio: 3/2
+    back: pattern
+    color: '#c5c9c6'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01_untitled2018onWoodboard.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-76x76.jpg
+        2x
+  id: painting/untitledOnWoodboard
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01_untitled2018onWoodboard.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/painting/untitledOnWoodboard/42e3dff259-1607256232/01-untitled2018onwoodboard-76x76.jpg
+        2x
+  info: ""
+  link: /pages/painting+untitledOnWoodboard
+  text: Untitled (Wood board)
+  url: >
+    http://kanakoikegaya.test/painting/untitledOnWoodboard
+
+----
+
+Uuid: kxldj0h6ceidpkut

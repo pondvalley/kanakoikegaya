@@ -1,0 +1,13 @@
+title: About
+parent: kirby.page('category')
+status:
+  draft: Draft
+  listed: Published
+
+fields:
+  text:
+    type: textarea
+    size: medium
+  exhibitions:
+    type: textarea
+    size: medium

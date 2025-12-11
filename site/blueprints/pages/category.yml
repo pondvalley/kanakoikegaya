@@ -1,0 +1,11 @@
+title: Category
+sections:
+  images:
+    type: pages
+    layout: cards
+    image:
+      cover: true
+    template: gallery 
+  fields:
+    description:
+      type: textarea

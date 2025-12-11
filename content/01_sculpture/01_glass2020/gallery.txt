@@ -1,0 +1,384 @@
+Title: Spindel
+
+----
+
+Images:
+
+- 01_glass2020.jpg
+- 02_glass2020.jpg
+- 03_glass2020.jpg
+- 04_glass2020.jpg
+- 05_glass2020.jpg
+
+----
+
+Category: Sculpture
+
+----
+
+Year: 2020
+
+----
+
+Media: mold-melted glass, canvas, photo corners
+
+----
+
+Dimension: false
+
+----
+
+Series: 5
+
+----
+
+Location: 
+
+----
+
+Text: 
+
+----
+
+Url: 
+
+----
+
+Size:
+
+yellow
+23.8 x 6.2 x 6.2 cm   (9 3/8 x 2 7/16 x 2 7/16 in)
+
+yellow x light green
+23.0  x 5.7 x 5.7 cm (9 1/16 x 2 1/4 x 2 1/4 in)
+
+Ultramarine x red-purple
+21.4 x 5.7 x 5.5 cm (8 27/64 x 2 1/4 x 2 11/64 in)
+
+Red-purple x orange
+23.4 x 6.5 x 6.5 cm (9  7/32 x 2 9/16 x 2 9/16 in)
+
+black x beige
+
+----
+
+Tags: abstract, glass
+
+----
+
+Gallery:
+
+- 
+  filename: 01_glass2020.jpg
+  dragText: '(image: 01_glass2020.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-76x76.jpg
+        2x
+  id: sculpture/glass2020/01_glass2020.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01-glass2020-76x76.jpg
+        2x
+  info: ""
+  link: >
+    /pages/sculpture+glass2020/files/01_glass2020.jpg
+  text: 01_glass2020.jpg
+  type: image
+  url: >
+    http://kanakoikegaya.test/media/pages/sculpture/glass2020/47d4ca94e2-1608555353/01_glass2020.jpg
+  uuid: 01_glass2020.jpg
+- 
+  filename: 02_glass2020.jpg
+  dragText: '(image: 02_glass2020.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-76x76.jpg
+        2x
+  id: sculpture/glass2020/02_glass2020.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02-glass2020-76x76.jpg
+        2x
+  info: ""
+  link: >
+    /pages/sculpture+glass2020/files/02_glass2020.jpg
+  text: 02_glass2020.jpg
+  type: image
+  url: >
+    http://kanakoikegaya.test/media/pages/sculpture/glass2020/de6827a233-1608381339/02_glass2020.jpg
+  uuid: 02_glass2020.jpg
+- 
+  filename: 03_glass2020.jpg
+  dragText: '(image: 03_glass2020.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-76x76.jpg
+        2x
+  id: sculpture/glass2020/03_glass2020.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03-glass2020-76x76.jpg
+        2x
+  info: ""
+  link: >
+    /pages/sculpture+glass2020/files/03_glass2020.jpg
+  text: 03_glass2020.jpg
+  type: image
+  url: >
+    http://kanakoikegaya.test/media/pages/sculpture/glass2020/ff80f91293-1608381349/03_glass2020.jpg
+  uuid: 03_glass2020.jpg
+- 
+  filename: 04_glass2020.jpg
+  dragText: '(image: 04_glass2020.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-76x76.jpg
+        2x
+  id: sculpture/glass2020/04_glass2020.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04-glass2020-76x76.jpg
+        2x
+  info: ""
+  link: >
+    /pages/sculpture+glass2020/files/04_glass2020.jpg
+  text: 04_glass2020.jpg
+  type: image
+  url: >
+    http://kanakoikegaya.test/media/pages/sculpture/glass2020/fc80f63cef-1608381358/04_glass2020.jpg
+  uuid: 04_glass2020.jpg
+- 
+  filename: 05_glass2020.jpg
+  dragText: '(image: 05_glass2020.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-76x76.jpg
+        2x
+  id: sculpture/glass2020/05_glass2020.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05_glass2020.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-352x.jpg
+        352w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-864x.jpg
+        864w,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-38x38.jpg
+        1x,
+        http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05-glass2020-76x76.jpg
+        2x
+  info: ""
+  link: >
+    /pages/sculpture+glass2020/files/05_glass2020.jpg
+  text: 05_glass2020.jpg
+  type: image
+  url: >
+    http://kanakoikegaya.test/media/pages/sculpture/glass2020/4c9df00ef4-1608381366/05_glass2020.jpg
+  uuid: 05_glass2020.jpg
+
+----
+
+Uuid: wz0dpv7mdoerv19q
