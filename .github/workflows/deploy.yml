@@ -31,20 +31,11 @@ jobs:
         username: ${{ secrets.VPS_USERNAME }}
         key: ${{ secrets.VPS_SSH_KEY }}
         port: ${{ secrets.VPS_PORT }}
-        source: |
-          assets/css/style.css
-          assets/js/*
-          assets/svg/*
-          site/*
-          kirby/*
-          content/*
-          index.php
-          .htaccess
-          composer.json
-          composer.lock
+        source: "assets,site,kirby,content,index.php,.htaccess,composer.json,composer.lock"
         target: ${{ secrets.VPS_PATH }}
         strip_components: 0
         overwrite: true
+        rm: false
 
     - name: Run post-deployment commands
       uses: appleboy/ssh-action@master
